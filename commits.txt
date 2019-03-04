@@ -1,3 +1,9 @@
+commit 5ccbc1c9cf1bac4c8658d7982f530cc3a8814abb
+Author: tunga <ssanogom@gmail.com>
+Date:   Mon Mar 4 15:15:37 2019 +0000
+
+    new version de commits.txt exellent Job
+
 commit 9f242bf3a687cfb1df29c492decad0ff8f8d58c7
 Author: tunga <ssanogom@gmail.com>
 Date:   Mon Mar 4 15:13:57 2019 +0000
